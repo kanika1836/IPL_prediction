@@ -5,6 +5,7 @@ This project is centered around building a machine learning-based system that ca
 The system takes into account crucial in-game factors like the current score, wickets remaining, overs left, and required run rate, and combines them with past performance metrics of teams and players. Using this information, the model calculates real-time probabilities and offers predictions about which team is more likely to win as the match progresses.
 
 📂 Files & Folders
+
 ├── app.py              # Streamlit application (UI for predictions)  
 ├── data.ipynb          # Notebook for data cleaning & EDA  
 ├── model.py            # Code for model training & testing  
